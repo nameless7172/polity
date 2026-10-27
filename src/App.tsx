@@ -1,6 +1,7 @@
 import { Approval } from './components/Approval'
 import { Section } from './components/Card'
 import { FirstRound } from './components/Election'
+import { Flag } from './components/Flag'
 import { ElectionDates } from './components/ElectionDates'
 import { Hemicycle } from './components/Hemicycle'
 import { Leadership } from './components/Leadership'
@@ -32,6 +33,7 @@ export function App({ country }: { country: Country }) {
               className="tab"
               aria-current={c.id === country.id ? 'page' : undefined}
             >
+              <Flag colors={c.flag} size="small" />
               {c.name}
             </a>
           ))}
@@ -40,7 +42,10 @@ export function App({ country }: { country: Country }) {
 
       <main>
         <header className="country-head">
-          <h1>{country.name}</h1>
+          <h1>
+            <Flag colors={country.flag} size="large" />
+            {country.name}
+          </h1>
           <Standfirst country={country} />
         </header>
 
