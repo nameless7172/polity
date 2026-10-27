@@ -1,0 +1,43 @@
+name: Update data
+
+on:
+  schedule:
+    - cron: '0 5 * * *' # daily, ~07:00 Paris
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: node scripts/update-data.mjs
+
+      - name: Commit if data changed
+        run: |
+          if git diff --quiet -- src/data/france-live.json; then
+            echo "No data changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/france-live.json
+          git commit -m "Update France data"
+          git push
+
+      # Runs after the commit so good sections still ship; a red run emails you that a source broke.
+      - name: Fail if any source is stale or a party is unmapped
+        run: |
+          node -e "
+            const d = require('./src/data/france-live.json')
+            const bad = Object.entries(d.status).filter(([, v]) => !v.ok)
+            if (bad.length) console.error('Stale sections:', JSON.stringify(bad, null, 2))
+            if (d.unknownParties.length) console.error('Add to france-reference.json:', d.unknownParties)
+            if (bad.length || d.unknownParties.length) process.exit(1)
+          "

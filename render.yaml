@@ -1,0 +1,15 @@
+services:
+  # Free static site. Data is refreshed by the GitHub Actions workflow, which commits
+  # src/data/france-live.json; each push triggers a redeploy here.
+  - type: web
+    name: polity
+    runtime: static
+    buildCommand: npm ci && npm run build
+    staticPublishPath: ./dist
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: "20"
+      # Public URL used for canonical links, sitemap and robots.txt. Set it to your custom domain if you add one.
+      - key: SITE_URL
+        sync: false

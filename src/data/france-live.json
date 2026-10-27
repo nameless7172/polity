@@ -1,0 +1,484 @@
+{
+ "generatedAt": "2026-10-27T16:00:59.067Z",
+ "status": {
+  "polls": {
+   "ok": true,
+   "updatedAt": "2026-10-27T16:00:59.067Z"
+  },
+  "parliament": {
+   "ok": true,
+   "updatedAt": "2026-10-27T16:00:59.067Z"
+  },
+  "leaders": {
+   "ok": true,
+   "updatedAt": "2026-10-27T16:00:59.067Z"
+  },
+  "government": {
+   "ok": true,
+   "updatedAt": "2026-10-27T16:00:59.067Z"
+  },
+  "election": {
+   "ok": true,
+   "updatedAt": "2026-10-27T16:00:59.067Z"
+  },
+  "approval": {
+   "ok": true,
+   "updatedAt": "2026-10-27T16:00:59.067Z"
+  }
+ },
+ "polls": {
+  "asOf": "2026-10-22",
+  "firstRound": {
+   "windowStart": "2026-10-14",
+   "windowEnd": "2026-10-22",
+   "pollCount": 10,
+   "pollsters": [
+    "Cluster17",
+    "Elabe",
+    "Harris Interactive",
+    "Ifop",
+    "Ipsos",
+    "OpinionWay",
+    "YouGov"
+   ],
+   "average": {
+    "Marine Le Pen": 33.4,
+    "Jean-Luc Mélenchon": 16.1,
+    "Édouard Philippe": 13.4,
+    "Raphaël Glucksmann": 12.6,
+    "Bruno Retailleau": 6.1,
+    "David Lisnard": 5.6,
+    "Gabriel Attal": 4.7,
+    "Éric Zemmour": 3.9,
+    "Marine Tondelier": 2.5,
+    "Fabien Roussel": 1.7,
+    "Nicolas Dupont-Aignan": 1.7,
+    "Nathalie Arthaud": 0.5
+   },
+   "fourWeeksAgo": {
+    "Nathalie Arthaud": 0.8,
+    "Jean-Luc Mélenchon": 17,
+    "Fabien Roussel": 1.7,
+    "Marine Tondelier": 2.5,
+    "Raphaël Glucksmann": 9,
+    "Édouard Philippe": 14,
+    "Bruno Retailleau": 7.2,
+    "Nicolas Dupont-Aignan": 2.3,
+    "Marine Le Pen": 33,
+    "Éric Zemmour": 4.5,
+    "Gabriel Attal": 6.5
+   }
+  },
+  "trend": [
+   {
+    "date": "2026-07-09",
+    "values": {
+     "Nathalie Arthaud": 0.6,
+     "Fabien Roussel": 2,
+     "Jean-Luc Mélenchon": 14.7,
+     "Raphaël Glucksmann": 10.3,
+     "Marine Tondelier": 3.7,
+     "Gabriel Attal": 10,
+     "Édouard Philippe": 16,
+     "Bruno Retailleau": 8.3,
+     "Nicolas Dupont-Aignan": 1.5,
+     "Marine Le Pen": 35.3,
+     "Éric Zemmour": 3.5
+    }
+   },
+   {
+    "date": "2026-07-16",
+    "values": {
+     "Nathalie Arthaud": 0.7,
+     "Fabien Roussel": 2.1,
+     "Jean-Luc Mélenchon": 14.7,
+     "Raphaël Glucksmann": 10.1,
+     "Marine Tondelier": 3.8,
+     "Gabriel Attal": 9.1,
+     "Édouard Philippe": 15.8,
+     "Bruno Retailleau": 8.1,
+     "Nicolas Dupont-Aignan": 1.5,
+     "Marine Le Pen": 35.6,
+     "Éric Zemmour": 3.3
+    }
+   },
+   {
+    "date": "2026-09-03",
+    "values": {
+     "Nathalie Arthaud": 0.9,
+     "Fabien Roussel": 2.5,
+     "Jean-Luc Mélenchon": 16.3,
+     "Raphaël Glucksmann": 12.3,
+     "Marine Tondelier": 3.1,
+     "Gabriel Attal": 8.8,
+     "Bruno Retailleau": 7.3,
+     "Nicolas Dupont-Aignan": 2.3,
+     "Marine Le Pen": 33.2,
+     "Éric Zemmour": 3.3,
+     "Édouard Philippe": 15.5
+    }
+   },
+   {
+    "date": "2026-09-10",
+    "values": {
+     "Nathalie Arthaud": 0.8,
+     "Fabien Roussel": 2.3,
+     "Jean-Luc Mélenchon": 16,
+     "Raphaël Glucksmann": 10.6,
+     "Marine Tondelier": 3.2,
+     "Gabriel Attal": 7.1,
+     "Édouard Philippe": 15,
+     "Bruno Retailleau": 7.1,
+     "Nicolas Dupont-Aignan": 2.2,
+     "Marine Le Pen": 33.3,
+     "Éric Zemmour": 3.6
+    }
+   },
+   {
+    "date": "2026-09-17",
+    "values": {
+     "Nathalie Arthaud": 0.5,
+     "Jean-Luc Mélenchon": 16.5,
+     "Fabien Roussel": 2.1,
+     "Marine Tondelier": 3.1,
+     "Raphaël Glucksmann": 10.1,
+     "Gabriel Attal": 7.3,
+     "Édouard Philippe": 15.4,
+     "Bruno Retailleau": 7.3,
+     "Nicolas Dupont-Aignan": 2.2,
+     "Marine Le Pen": 33,
+     "Éric Zemmour": 3.7
+    }
+   },
+   {
+    "date": "2026-09-24",
+    "values": {
+     "Nathalie Arthaud": 0.8,
+     "Jean-Luc Mélenchon": 17,
+     "Fabien Roussel": 1.7,
+     "Marine Tondelier": 2.5,
+     "Raphaël Glucksmann": 9,
+     "Édouard Philippe": 14,
+     "Bruno Retailleau": 7.2,
+     "Nicolas Dupont-Aignan": 2.3,
+     "Marine Le Pen": 33,
+     "Éric Zemmour": 4.5,
+     "Gabriel Attal": 6.5
+    }
+   },
+   {
+    "date": "2026-10-01",
+    "values": {
+     "Nathalie Arthaud": 0.8,
+     "Jean-Luc Mélenchon": 15.3,
+     "Fabien Roussel": 1.7,
+     "François Ruffin": 2.5,
+     "Marine Tondelier": 2.7,
+     "Raphaël Glucksmann": 8,
+     "Gabriel Attal": 6.7,
+     "Édouard Philippe": 12.7,
+     "Dominique de Villepin": 2,
+     "David Lisnard": 2.8,
+     "Bruno Retailleau": 6.3,
+     "Nicolas Dupont-Aignan": 1.7,
+     "Marine Le Pen": 33,
+     "Éric Zemmour": 4.7
+    }
+   },
+   {
+    "date": "2026-10-08",
+    "values": {
+     "Nathalie Arthaud": 0.7,
+     "Jean-Luc Mélenchon": 16.7,
+     "Fabien Roussel": 2,
+     "Marine Tondelier": 2.7,
+     "Raphaël Glucksmann": 9.5,
+     "Gabriel Attal": 6,
+     "Édouard Philippe": 15,
+     "Bruno Retailleau": 6.2,
+     "Nicolas Dupont-Aignan": 1.7,
+     "Marine Le Pen": 34.3,
+     "Éric Zemmour": 4.5
+    }
+   },
+   {
+    "date": "2026-10-15",
+    "values": {
+     "Nathalie Arthaud": 0.6,
+     "Jean-Luc Mélenchon": 16.3,
+     "Fabien Roussel": 1.8,
+     "Marine Tondelier": 2.7,
+     "Raphaël Glucksmann": 11.2,
+     "Édouard Philippe": 13.3,
+     "Bruno Retailleau": 6.1,
+     "Nicolas Dupont-Aignan": 1.7,
+     "Marine Le Pen": 34.2,
+     "Éric Zemmour": 4.1,
+     "Gabriel Attal": 5.3,
+     "David Lisnard": 5.3
+    }
+   },
+   {
+    "date": "2026-10-22",
+    "values": {
+     "Nathalie Arthaud": 0.5,
+     "Jean-Luc Mélenchon": 16.1,
+     "Fabien Roussel": 1.7,
+     "Marine Tondelier": 2.5,
+     "Raphaël Glucksmann": 12.6,
+     "Gabriel Attal": 4.7,
+     "Édouard Philippe": 13.4,
+     "David Lisnard": 5.6,
+     "Bruno Retailleau": 6.1,
+     "Nicolas Dupont-Aignan": 1.7,
+     "Marine Le Pen": 33.4,
+     "Éric Zemmour": 3.9
+    }
+   }
+  ],
+  "runoffs": [
+   {
+    "a": "Philippe",
+    "b": "Le Pen",
+    "polls": 8,
+    "aPct": 44.7,
+    "bPct": 55.3
+   },
+   {
+    "a": "Glucksmann",
+    "b": "Le Pen",
+    "polls": 6,
+    "aPct": 43.9,
+    "bPct": 56.1
+   },
+   {
+    "a": "Attal",
+    "b": "Le Pen",
+    "polls": 2,
+    "aPct": 43.5,
+    "bPct": 56.5
+   },
+   {
+    "a": "Mélenchon",
+    "b": "Le Pen",
+    "polls": 8,
+    "aPct": 31.5,
+    "bPct": 68.5
+   }
+  ],
+  "candidates": {
+   "Marine Le Pen": "rn",
+   "Jean-Luc Mélenchon": "lfi",
+   "Édouard Philippe": "hor",
+   "Raphaël Glucksmann": "pp",
+   "Bruno Retailleau": "lr",
+   "David Lisnard": "dvd",
+   "Gabriel Attal": "re",
+   "Éric Zemmour": "rec",
+   "Marine Tondelier": "le",
+   "Fabien Roussel": "pcf",
+   "Nicolas Dupont-Aignan": "dlf",
+   "Nathalie Arthaud": "lo"
+  }
+ },
+ "parliament": {
+  "asOf": "2026-09-22",
+  "seats": {
+   "RN": 122,
+   "EPR": 90,
+   "LFI": 71,
+   "SOC": 67,
+   "DR": 48,
+   "ECO": 38,
+   "DEM": 37,
+   "HOR": 36,
+   "LIOT": 22,
+   "GDR": 17,
+   "UDR": 17,
+   "NI": 12
+  },
+  "lastElection": "2024-07-07"
+ },
+ "leaders": {
+  "headOfState": {
+   "name": "Emmanuel Macron",
+   "since": "2017-05-14",
+   "partyId": "re"
+  },
+  "headOfGovernment": {
+   "name": "Sébastien Lecornu",
+   "since": "2025-09-09",
+   "partyId": "re"
+  }
+ },
+ "approval": {
+  "latestWave": "2026-10-01",
+  "series": {
+   "Emmanuel Macron": [
+    {
+     "date": "2025-10-01",
+     "approve": 20,
+     "disapprove": 80
+    },
+    {
+     "date": "2025-11-01",
+     "approve": 19,
+     "disapprove": 77
+    },
+    {
+     "date": "2025-12-01",
+     "approve": 18,
+     "disapprove": 77
+    },
+    {
+     "date": "2026-09-01",
+     "approve": 16
+    },
+    {
+     "date": "2026-10-01",
+     "approve": 15,
+     "disapprove": 82
+    }
+   ],
+   "Sébastien Lecornu": [
+    {
+     "date": "2025-10-01",
+     "approve": 42,
+     "disapprove": 57
+    },
+    {
+     "date": "2025-11-01",
+     "approve": 25,
+     "disapprove": 60
+    },
+    {
+     "date": "2025-12-01",
+     "approve": 29,
+     "disapprove": 58
+    },
+    {
+     "date": "2026-09-01",
+     "approve": 20
+    },
+    {
+     "date": "2026-10-01",
+     "approve": 22,
+     "disapprove": 69
+    }
+   ]
+  }
+ },
+ "government": {
+  "name": "Second Lecornu government",
+  "formed": "2025-10-10",
+  "article": "Second_Lecornu_government",
+  "ministers": [
+   {
+    "role": "Prime Minister",
+    "name": "Sébastien Lecornu",
+    "partyId": "re"
+   },
+   {
+    "role": "Minister of National Education",
+    "name": "Édouard Geffray",
+    "partyId": "ind"
+   },
+   {
+    "role": "Minister for Overseas Territories",
+    "name": "Naïma Moutchou",
+    "partyId": "hor"
+   },
+   {
+    "role": "Minister of Justice",
+    "name": "Gérald Darmanin",
+    "partyId": "re"
+   },
+   {
+    "role": "Minister of the Interior",
+    "name": "Laurent Nuñez",
+    "partyId": "re"
+   },
+   {
+    "role": "Minister of the Armed Forces",
+    "name": "Catherine Vautrin",
+    "partyId": "re"
+   },
+   {
+    "role": "Minister of Labour, Employment and Economic Inclusion",
+    "name": "Jean-Pierre Farandou",
+    "partyId": "ind"
+   },
+   {
+    "role": "Minister of Culture",
+    "name": "Catherine Pégard",
+    "partyId": "ind"
+   },
+   {
+    "role": "Minister of Economics, Finance and Industrial and Digital Sovereignty",
+    "name": "Roland Lescure",
+    "partyId": "re"
+   },
+   {
+    "role": "Minister of Health, Families, Autonomy and People with Disabilities",
+    "name": "Stéphanie Rist",
+    "partyId": "re"
+   },
+   {
+    "role": "Minister for Europe and Foreign Affairs",
+    "name": "Jean-Noël Barrot",
+    "partyId": "modem"
+   },
+   {
+    "role": "Minister of Partnership with Territories and Decentralization",
+    "name": "Françoise Gatel",
+    "partyId": "udi"
+   },
+   {
+    "role": "Minister of Housing and Urban Renovation",
+    "name": "Vincent Jeanbrun",
+    "partyId": "dvd"
+   },
+   {
+    "role": "Minister of Ecological Transition",
+    "name": "Monique Barbut",
+    "partyId": "ind"
+   },
+   {
+    "role": "Minister of Agriculture",
+    "name": "Annie Genevard",
+    "partyId": "dvd"
+   },
+   {
+    "role": "Minister for Public Action and Accounts",
+    "name": "David Amiel",
+    "partyId": "re"
+   },
+   {
+    "role": "Minister of Transport",
+    "name": "Philippe Tabarot",
+    "partyId": "dvd"
+   },
+   {
+    "role": "Minister of Sports, Youth and Community Life",
+    "name": "Marina Ferrari",
+    "partyId": "modem"
+   },
+   {
+    "role": "Minister of Higher Education, Research and Space",
+    "name": "Philippe Baptiste",
+    "partyId": "ind"
+   },
+   {
+    "role": "Minister of Small and Medium-sized Enterprises, Trade, Crafts, Tourism and Purchasing Power",
+    "name": "Serge Papin",
+    "partyId": "ind"
+   }
+  ]
+ },
+ "election": {
+  "firstRound": "2027-04-18",
+  "secondRound": "2027-05-02"
+ },
+ "unknownParties": [],
+ "events": []
+}
