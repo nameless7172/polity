@@ -1,29 +1,29 @@
 {
- "generatedAt": "2026-10-27T16:00:59.067Z",
+ "generatedAt": "2026-10-29T11:11:21.120Z",
  "status": {
   "polls": {
    "ok": true,
-   "updatedAt": "2026-10-27T16:00:59.067Z"
+   "updatedAt": "2026-10-29T11:11:21.120Z"
   },
   "parliament": {
    "ok": true,
-   "updatedAt": "2026-10-27T16:00:59.067Z"
+   "updatedAt": "2026-10-29T11:11:21.120Z"
   },
   "leaders": {
    "ok": true,
-   "updatedAt": "2026-10-27T16:00:59.067Z"
+   "updatedAt": "2026-10-29T11:11:21.120Z"
   },
   "government": {
    "ok": true,
-   "updatedAt": "2026-10-27T16:00:59.067Z"
+   "updatedAt": "2026-10-29T11:11:21.120Z"
   },
   "election": {
    "ok": true,
-   "updatedAt": "2026-10-27T16:00:59.067Z"
+   "updatedAt": "2026-10-29T11:11:21.120Z"
   },
   "approval": {
    "ok": true,
-   "updatedAt": "2026-10-27T16:00:59.067Z"
+   "updatedAt": "2026-10-29T11:11:21.120Z"
   }
  },
  "polls": {
@@ -272,12 +272,12 @@
    "Édouard Philippe": "hor",
    "Raphaël Glucksmann": "pp",
    "Bruno Retailleau": "lr",
-   "David Lisnard": "dvd",
+   "David Lisnard": "unknown:Nous Citoyens",
    "Gabriel Attal": "re",
    "Éric Zemmour": "rec",
    "Marine Tondelier": "le",
    "Fabien Roussel": "pcf",
-   "Nicolas Dupont-Aignan": "dlf",
+   "Nicolas Dupont-Aignan": "unknown:Debout la République",
    "Nathalie Arthaud": "lo"
   }
  },
@@ -479,6 +479,10 @@
   "firstRound": "2027-04-18",
   "secondRound": "2027-05-02"
  },
- "unknownParties": [],
+ "unknownParties": [
+  "Génération.s",
+  "Nous Citoyens",
+  "Debout la République"
+ ],
  "events": []
 }
