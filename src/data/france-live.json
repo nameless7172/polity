@@ -1,91 +1,77 @@
 {
- "generatedAt": "2026-10-31T10:39:39.996Z",
+ "generatedAt": "2026-11-04T12:39:55.806Z",
  "status": {
   "polls": {
    "ok": true,
-   "updatedAt": "2026-10-31T10:39:39.996Z"
+   "updatedAt": "2026-11-04T12:39:55.806Z"
   },
   "parliament": {
    "ok": true,
-   "updatedAt": "2026-10-31T10:39:39.996Z"
+   "updatedAt": "2026-11-04T12:39:55.806Z"
   },
   "leaders": {
    "ok": true,
-   "updatedAt": "2026-10-31T10:39:39.996Z"
+   "updatedAt": "2026-11-04T12:39:55.806Z"
   },
   "government": {
    "ok": true,
-   "updatedAt": "2026-10-31T10:39:39.996Z"
+   "updatedAt": "2026-11-04T12:39:55.806Z"
   },
   "election": {
    "ok": true,
-   "updatedAt": "2026-10-31T10:39:39.996Z"
+   "updatedAt": "2026-11-04T12:39:55.806Z"
   },
   "approval": {
    "ok": true,
-   "updatedAt": "2026-10-31T10:39:39.996Z"
+   "updatedAt": "2026-11-04T12:39:55.806Z"
   }
  },
  "polls": {
-  "asOf": "2026-10-22",
+  "asOf": "2026-10-29",
   "firstRound": {
-   "windowStart": "2026-10-14",
-   "windowEnd": "2026-10-22",
-   "pollCount": 10,
+   "windowStart": "2026-10-16",
+   "windowEnd": "2026-10-29",
+   "pollCount": 7,
    "pollsters": [
     "Cluster17",
     "Elabe",
     "Harris Interactive",
     "Ifop",
     "Ipsos",
-    "OpinionWay",
-    "YouGov"
+    "OpinionWay"
    ],
    "average": {
-    "Marine Le Pen": 33.4,
-    "Jean-Luc Mélenchon": 16.1,
-    "Édouard Philippe": 13.4,
+    "Marine Le Pen": 33.7,
+    "Jean-Luc Mélenchon": 16.7,
+    "Édouard Philippe": 13.3,
     "Raphaël Glucksmann": 12.6,
-    "Bruno Retailleau": 6.1,
-    "David Lisnard": 5.6,
-    "Gabriel Attal": 4.7,
-    "Éric Zemmour": 3.9,
-    "Marine Tondelier": 2.5,
-    "Fabien Roussel": 1.7,
-    "Nicolas Dupont-Aignan": 1.7,
+    "David Lisnard": 6.2,
+    "Bruno Retailleau": 5.9,
+    "Gabriel Attal": 4.3,
+    "Éric Zemmour": 4,
+    "Marine Tondelier": 2.4,
+    "Fabien Roussel": 1.8,
+    "Nicolas Dupont-Aignan": 1.8,
     "Nathalie Arthaud": 0.5
    },
    "fourWeeksAgo": {
     "Nathalie Arthaud": 0.8,
-    "Jean-Luc Mélenchon": 17,
+    "Jean-Luc Mélenchon": 15.3,
     "Fabien Roussel": 1.7,
-    "Marine Tondelier": 2.5,
-    "Raphaël Glucksmann": 9,
-    "Édouard Philippe": 14,
-    "Bruno Retailleau": 7.2,
-    "Nicolas Dupont-Aignan": 2.3,
+    "François Ruffin": 2.5,
+    "Marine Tondelier": 2.7,
+    "Raphaël Glucksmann": 8,
+    "Gabriel Attal": 6.7,
+    "Édouard Philippe": 12.7,
+    "Dominique de Villepin": 2,
+    "David Lisnard": 2.8,
+    "Bruno Retailleau": 6.3,
+    "Nicolas Dupont-Aignan": 1.7,
     "Marine Le Pen": 33,
-    "Éric Zemmour": 4.5,
-    "Gabriel Attal": 6.5
+    "Éric Zemmour": 4.7
    }
   },
   "trend": [
-   {
-    "date": "2026-07-09",
-    "values": {
-     "Nathalie Arthaud": 0.6,
-     "Fabien Roussel": 2,
-     "Jean-Luc Mélenchon": 14.7,
-     "Raphaël Glucksmann": 10.3,
-     "Marine Tondelier": 3.7,
-     "Gabriel Attal": 10,
-     "Édouard Philippe": 16,
-     "Bruno Retailleau": 8.3,
-     "Nicolas Dupont-Aignan": 1.5,
-     "Marine Le Pen": 35.3,
-     "Éric Zemmour": 3.5
-    }
-   },
    {
     "date": "2026-07-16",
     "values": {
@@ -234,6 +220,23 @@
      "Marine Le Pen": 33.4,
      "Éric Zemmour": 3.9
     }
+   },
+   {
+    "date": "2026-10-29",
+    "values": {
+     "Nathalie Arthaud": 0.5,
+     "Jean-Luc Mélenchon": 16.7,
+     "Fabien Roussel": 1.8,
+     "Marine Tondelier": 2.4,
+     "Raphaël Glucksmann": 12.6,
+     "Édouard Philippe": 13.3,
+     "David Lisnard": 6.2,
+     "Bruno Retailleau": 5.9,
+     "Nicolas Dupont-Aignan": 1.8,
+     "Marine Le Pen": 33.7,
+     "Éric Zemmour": 4,
+     "Gabriel Attal": 4.3
+    }
    }
   ],
   "runoffs": [
@@ -271,8 +274,8 @@
    "Jean-Luc Mélenchon": "lfi",
    "Édouard Philippe": "hor",
    "Raphaël Glucksmann": "pp",
-   "Bruno Retailleau": "lr",
    "David Lisnard": "unknown:Nous Citoyens",
+   "Bruno Retailleau": "lr",
    "Gabriel Attal": "re",
    "Éric Zemmour": "rec",
    "Marine Tondelier": "le",
@@ -480,7 +483,9 @@
   "secondRound": "2027-05-02"
  },
  "unknownParties": [
+  "Left Front (France)",
   "Génération.s",
+  "The Centrists",
   "Nous Citoyens",
   "Debout la République"
  ],
