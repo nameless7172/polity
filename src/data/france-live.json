@@ -1,29 +1,30 @@
 {
- "generatedAt": "2026-11-07T11:24:17.680Z",
+ "generatedAt": "2026-11-08T11:36:37.234Z",
  "status": {
   "polls": {
-   "ok": true,
-   "updatedAt": "2026-11-07T11:24:17.680Z"
+   "ok": false,
+   "error": "only 2 polls in window",
+   "lastGood": "2026-11-07T11:24:17.680Z"
   },
   "parliament": {
    "ok": true,
-   "updatedAt": "2026-11-07T11:24:17.680Z"
+   "updatedAt": "2026-11-08T11:36:37.234Z"
   },
   "leaders": {
    "ok": true,
-   "updatedAt": "2026-11-07T11:24:17.680Z"
+   "updatedAt": "2026-11-08T11:36:37.234Z"
   },
   "government": {
    "ok": true,
-   "updatedAt": "2026-11-07T11:24:17.680Z"
+   "updatedAt": "2026-11-08T11:36:37.234Z"
   },
   "election": {
    "ok": true,
-   "updatedAt": "2026-11-07T11:24:17.680Z"
+   "updatedAt": "2026-11-08T11:36:37.234Z"
   },
   "approval": {
    "ok": true,
-   "updatedAt": "2026-11-07T11:24:17.680Z"
+   "updatedAt": "2026-11-08T11:36:37.234Z"
   }
  },
  "polls": {
