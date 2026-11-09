@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T11:36:37.234Z",
+ "generatedAt": "2026-11-09T13:28:50.407Z",
  "status": {
   "polls": {
    "ok": false,
@@ -8,23 +8,23 @@
   },
   "parliament": {
    "ok": true,
-   "updatedAt": "2026-11-08T11:36:37.234Z"
+   "updatedAt": "2026-11-09T13:28:50.407Z"
   },
   "leaders": {
    "ok": true,
-   "updatedAt": "2026-11-08T11:36:37.234Z"
+   "updatedAt": "2026-11-09T13:28:50.407Z"
   },
   "government": {
    "ok": true,
-   "updatedAt": "2026-11-08T11:36:37.234Z"
+   "updatedAt": "2026-11-09T13:28:50.407Z"
   },
   "election": {
    "ok": true,
-   "updatedAt": "2026-11-08T11:36:37.234Z"
+   "updatedAt": "2026-11-09T13:28:50.407Z"
   },
   "approval": {
    "ok": true,
-   "updatedAt": "2026-11-08T11:36:37.234Z"
+   "updatedAt": "2026-11-09T13:28:50.407Z"
   }
  },
  "polls": {
@@ -500,6 +500,7 @@
  "unknownParties": [
   "Left Front (France)",
   "Génération.s",
+  "Sans étiquette",
   "The Centrists",
   "Nous Citoyens",
   "Debout la République"
