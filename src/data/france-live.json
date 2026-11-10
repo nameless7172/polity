@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T13:28:50.407Z",
+ "generatedAt": "2026-11-10T13:08:06.666Z",
  "status": {
   "polls": {
    "ok": false,
@@ -8,23 +8,23 @@
   },
   "parliament": {
    "ok": true,
-   "updatedAt": "2026-11-09T13:28:50.407Z"
+   "updatedAt": "2026-11-10T13:08:06.666Z"
   },
   "leaders": {
    "ok": true,
-   "updatedAt": "2026-11-09T13:28:50.407Z"
+   "updatedAt": "2026-11-10T13:08:06.666Z"
   },
   "government": {
    "ok": true,
-   "updatedAt": "2026-11-09T13:28:50.407Z"
+   "updatedAt": "2026-11-10T13:08:06.666Z"
   },
   "election": {
    "ok": true,
-   "updatedAt": "2026-11-09T13:28:50.407Z"
+   "updatedAt": "2026-11-10T13:08:06.666Z"
   },
   "approval": {
    "ok": true,
-   "updatedAt": "2026-11-09T13:28:50.407Z"
+   "updatedAt": "2026-11-10T13:08:06.666Z"
   }
  },
  "polls": {
@@ -503,7 +503,8 @@
   "Sans étiquette",
   "The Centrists",
   "Nous Citoyens",
-  "Debout la République"
+  "Debout la République",
+  "The Patriots (France)"
  ],
  "events": []
 }
