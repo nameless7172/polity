@@ -1,29 +1,29 @@
 {
- "generatedAt": "2026-11-21T13:08:39.219Z",
+ "generatedAt": "2026-11-22T12:56:11.217Z",
  "status": {
   "polls": {
    "ok": true,
-   "updatedAt": "2026-11-21T13:08:39.219Z"
+   "updatedAt": "2026-11-22T12:56:11.217Z"
   },
   "parliament": {
    "ok": true,
-   "updatedAt": "2026-11-21T13:08:39.219Z"
+   "updatedAt": "2026-11-22T12:56:11.217Z"
   },
   "leaders": {
    "ok": true,
-   "updatedAt": "2026-11-21T13:08:39.219Z"
+   "updatedAt": "2026-11-22T12:56:11.217Z"
   },
   "government": {
    "ok": true,
-   "updatedAt": "2026-11-21T13:08:39.219Z"
+   "updatedAt": "2026-11-22T12:56:11.217Z"
   },
   "election": {
    "ok": true,
-   "updatedAt": "2026-11-21T13:08:39.219Z"
+   "updatedAt": "2026-11-22T12:56:11.217Z"
   },
   "approval": {
    "ok": true,
-   "updatedAt": "2026-11-21T13:08:39.219Z"
+   "updatedAt": "2026-11-22T12:56:11.217Z"
   }
  },
  "polls": {
@@ -279,30 +279,23 @@
    {
     "a": "Philippe",
     "b": "Le Pen",
-    "polls": 9,
-    "aPct": 44.8,
-    "bPct": 55.2
-   },
-   {
-    "a": "Attal",
-    "b": "Le Pen",
-    "polls": 2,
-    "aPct": 43.5,
-    "bPct": 56.5
+    "polls": 3,
+    "aPct": 43,
+    "bPct": 57
    },
    {
     "a": "Glucksmann",
     "b": "Le Pen",
-    "polls": 7,
-    "aPct": 43.4,
-    "bPct": 56.6
+    "polls": 3,
+    "aPct": 41.7,
+    "bPct": 58.3
    },
    {
     "a": "Mélenchon",
     "b": "Le Pen",
-    "polls": 9,
-    "aPct": 31.7,
-    "bPct": 68.3
+    "polls": 4,
+    "aPct": 32,
+    "bPct": 68
    }
   ],
   "candidates": {
