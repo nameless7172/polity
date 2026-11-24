@@ -1,29 +1,29 @@
 {
- "generatedAt": "2026-11-22T12:56:11.217Z",
+ "generatedAt": "2026-11-24T15:25:11.546Z",
  "status": {
   "polls": {
    "ok": true,
-   "updatedAt": "2026-11-22T12:56:11.217Z"
+   "updatedAt": "2026-11-24T15:25:11.546Z"
   },
   "parliament": {
    "ok": true,
-   "updatedAt": "2026-11-22T12:56:11.217Z"
+   "updatedAt": "2026-11-24T15:25:11.546Z"
   },
   "leaders": {
    "ok": true,
-   "updatedAt": "2026-11-22T12:56:11.217Z"
+   "updatedAt": "2026-11-24T15:25:11.546Z"
   },
   "government": {
    "ok": true,
-   "updatedAt": "2026-11-22T12:56:11.217Z"
+   "updatedAt": "2026-11-24T15:25:11.546Z"
   },
   "election": {
    "ok": true,
-   "updatedAt": "2026-11-22T12:56:11.217Z"
+   "updatedAt": "2026-11-24T15:25:11.546Z"
   },
   "approval": {
    "ok": true,
-   "updatedAt": "2026-11-22T12:56:11.217Z"
+   "updatedAt": "2026-11-24T15:25:11.546Z"
   }
  },
  "polls": {
@@ -293,9 +293,9 @@
    {
     "a": "Mélenchon",
     "b": "Le Pen",
-    "polls": 4,
-    "aPct": 32,
-    "bPct": 68
+    "polls": 5,
+    "aPct": 33,
+    "bPct": 67
    }
   ],
   "candidates": {
@@ -303,7 +303,7 @@
    "Jean-Luc Mélenchon": "lfi",
    "Raphaël Glucksmann": "pp",
    "Édouard Philippe": "hor",
-   "David Lisnard": "unknown:Nous Citoyens",
+   "David Lisnard": "unknown:Union for French Democracy",
    "Bruno Retailleau": "lr",
    "Gabriel Attal": "re",
    "Teddy Riner": "unknown:Sans étiquette",
@@ -523,9 +523,8 @@
   "secondRound": "2027-05-02"
  },
  "unknownParties": [
-  "Left Front (France)",
   "Sans étiquette",
-  "Nous Citoyens",
+  "Union for French Democracy",
   "Debout la République",
   "The Patriots (France)",
   "Popular Republican Union (2007)"
