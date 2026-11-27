@@ -1,39 +1,38 @@
 {
- "generatedAt": "2026-11-24T15:25:11.546Z",
+ "generatedAt": "2026-11-27T14:30:07.212Z",
  "status": {
   "polls": {
    "ok": true,
-   "updatedAt": "2026-11-24T15:25:11.546Z"
+   "updatedAt": "2026-11-27T14:30:07.212Z"
   },
   "parliament": {
    "ok": true,
-   "updatedAt": "2026-11-24T15:25:11.546Z"
+   "updatedAt": "2026-11-27T14:30:07.212Z"
   },
   "leaders": {
    "ok": true,
-   "updatedAt": "2026-11-24T15:25:11.546Z"
+   "updatedAt": "2026-11-27T14:30:07.212Z"
   },
   "government": {
    "ok": true,
-   "updatedAt": "2026-11-24T15:25:11.546Z"
+   "updatedAt": "2026-11-27T14:30:07.212Z"
   },
   "election": {
    "ok": true,
-   "updatedAt": "2026-11-24T15:25:11.546Z"
+   "updatedAt": "2026-11-27T14:30:07.212Z"
   },
   "approval": {
    "ok": true,
-   "updatedAt": "2026-11-24T15:25:11.546Z"
+   "updatedAt": "2026-11-27T14:30:07.212Z"
   }
  },
  "polls": {
-  "asOf": "2026-11-19",
+  "asOf": "2026-11-26",
   "firstRound": {
-   "windowStart": "2026-11-10",
-   "windowEnd": "2026-11-19",
-   "pollCount": 7,
+   "windowStart": "2026-11-13",
+   "windowEnd": "2026-11-26",
+   "pollCount": 5,
    "pollsters": [
-    "Cluster17",
     "Elabe",
     "Harris Interactive",
     "Ifop",
@@ -41,33 +40,36 @@
     "YouGov"
    ],
    "average": {
-    "Marine Le Pen": 31.4,
-    "Jean-Luc Mélenchon": 17.9,
-    "Raphaël Glucksmann": 9.9,
-    "Édouard Philippe": 9.8,
-    "David Lisnard": 9.1,
+    "Marine Le Pen": 31.8,
+    "Jean-Luc Mélenchon": 17,
+    "Raphaël Glucksmann": 9.7,
+    "David Lisnard": 9.6,
+    "Édouard Philippe": 8.7,
     "Bruno Retailleau": 4.4,
-    "Gabriel Attal": 3.7,
-    "Teddy Riner": 3.6,
-    "Éric Zemmour": 3,
-    "Marine Tondelier": 2.6,
+    "Gabriel Attal": 4.1,
+    "Teddy Riner": 3.5,
+    "Éric Zemmour": 3.2,
+    "Marine Tondelier": 2.4,
+    "Nicolas Dupont-Aignan": 1.7,
     "Fabien Roussel": 1.6,
-    "Nicolas Dupont-Aignan": 1.6,
-    "Nathalie Arthaud": 0.8
+    "Dominique de Villepin": 1.6,
+    "Natacha Polony": 1.3,
+    "Nathalie Arthaud": 0.9
    },
    "fourWeeksAgo": {
     "Nathalie Arthaud": 0.5,
-    "Jean-Luc Mélenchon": 16.1,
-    "Fabien Roussel": 1.7,
-    "Marine Tondelier": 2.5,
+    "Jean-Luc Mélenchon": 16.6,
+    "Fabien Roussel": 1.8,
+    "Marine Tondelier": 2.4,
     "Raphaël Glucksmann": 12.6,
-    "Gabriel Attal": 4.7,
     "Édouard Philippe": 13.4,
-    "David Lisnard": 5.6,
-    "Bruno Retailleau": 6.1,
+    "Dominique de Villepin": 1.5,
+    "Bruno Retailleau": 6,
     "Nicolas Dupont-Aignan": 1.7,
-    "Marine Le Pen": 33.4,
-    "Éric Zemmour": 3.9
+    "Marine Le Pen": 33.9,
+    "Éric Zemmour": 4.1,
+    "Gabriel Attal": 4.3,
+    "David Lisnard": 6.4
    }
   },
   "trend": [
@@ -76,15 +78,16 @@
     "values": {
      "Nathalie Arthaud": 0.9,
      "Fabien Roussel": 2.5,
-     "Jean-Luc Mélenchon": 16.3,
-     "Raphaël Glucksmann": 12.3,
-     "Marine Tondelier": 3.1,
-     "Gabriel Attal": 8.8,
-     "Bruno Retailleau": 7.3,
-     "Nicolas Dupont-Aignan": 2.3,
+     "Jean-Luc Mélenchon": 16.2,
+     "Raphaël Glucksmann": 12.1,
+     "Marine Tondelier": 3,
+     "Gabriel Attal": 9.5,
+     "Bruno Retailleau": 7.2,
+     "Nicolas Dupont-Aignan": 2.4,
      "Marine Le Pen": 33.2,
      "Éric Zemmour": 3.3,
-     "Édouard Philippe": 15.5
+     "Édouard Philippe": 16.1,
+     "Dominique de Villepin": 2.8
     }
    },
    {
@@ -92,15 +95,15 @@
     "values": {
      "Nathalie Arthaud": 0.8,
      "Fabien Roussel": 2.3,
-     "Jean-Luc Mélenchon": 16,
-     "Raphaël Glucksmann": 10.6,
-     "Marine Tondelier": 3.2,
-     "Gabriel Attal": 7.1,
-     "Édouard Philippe": 15,
-     "Bruno Retailleau": 7.1,
-     "Nicolas Dupont-Aignan": 2.2,
+     "Jean-Luc Mélenchon": 15.9,
+     "Raphaël Glucksmann": 10.5,
+     "Marine Tondelier": 3.1,
+     "Édouard Philippe": 15.3,
+     "Bruno Retailleau": 7,
+     "Nicolas Dupont-Aignan": 2.3,
      "Marine Le Pen": 33.3,
-     "Éric Zemmour": 3.6
+     "Éric Zemmour": 3.6,
+     "Gabriel Attal": 7.3
     }
    },
    {
@@ -196,29 +199,31 @@
      "Marine Tondelier": 2.5,
      "Raphaël Glucksmann": 12.6,
      "Gabriel Attal": 4.7,
-     "Édouard Philippe": 13.4,
+     "Édouard Philippe": 13.5,
      "David Lisnard": 5.6,
      "Bruno Retailleau": 6.1,
      "Nicolas Dupont-Aignan": 1.7,
-     "Marine Le Pen": 33.4,
-     "Éric Zemmour": 3.9
+     "Marine Le Pen": 33.5,
+     "Éric Zemmour": 3.9,
+     "Dominique de Villepin": 1.4
     }
    },
    {
     "date": "2026-10-29",
     "values": {
      "Nathalie Arthaud": 0.5,
-     "Jean-Luc Mélenchon": 16.7,
+     "Jean-Luc Mélenchon": 16.6,
      "Fabien Roussel": 1.8,
      "Marine Tondelier": 2.4,
      "Raphaël Glucksmann": 12.6,
-     "Édouard Philippe": 13.3,
-     "David Lisnard": 6.2,
-     "Bruno Retailleau": 5.9,
-     "Nicolas Dupont-Aignan": 1.8,
-     "Marine Le Pen": 33.7,
-     "Éric Zemmour": 4,
-     "Gabriel Attal": 4.3
+     "Édouard Philippe": 13.4,
+     "Dominique de Villepin": 1.5,
+     "Bruno Retailleau": 6,
+     "Nicolas Dupont-Aignan": 1.7,
+     "Marine Le Pen": 33.9,
+     "Éric Zemmour": 4.1,
+     "Gabriel Attal": 4.3,
+     "David Lisnard": 6.4
     }
    },
    {
@@ -260,18 +265,40 @@
     "date": "2026-11-19",
     "values": {
      "Nathalie Arthaud": 0.8,
-     "Jean-Luc Mélenchon": 17.9,
-     "Fabien Roussel": 1.6,
+     "Jean-Luc Mélenchon": 17.3,
+     "Fabien Roussel": 1.5,
      "Marine Tondelier": 2.6,
-     "Raphaël Glucksmann": 9.9,
-     "Gabriel Attal": 3.7,
-     "Édouard Philippe": 9.8,
-     "David Lisnard": 9.1,
+     "Raphaël Glucksmann": 9.6,
+     "Gabriel Attal": 3.6,
+     "Édouard Philippe": 9.5,
+     "David Lisnard": 9,
      "Bruno Retailleau": 4.4,
      "Nicolas Dupont-Aignan": 1.6,
-     "Marine Le Pen": 31.4,
+     "Marine Le Pen": 31.1,
      "Éric Zemmour": 3,
-     "Teddy Riner": 3.6
+     "Natacha Polony": 1.8,
+     "Teddy Riner": 3.6,
+     "Dominique de Villepin": 1.4
+    }
+   },
+   {
+    "date": "2026-11-26",
+    "values": {
+     "Nathalie Arthaud": 0.9,
+     "Jean-Luc Mélenchon": 17,
+     "Fabien Roussel": 1.6,
+     "Natacha Polony": 1.3,
+     "Marine Tondelier": 2.4,
+     "Raphaël Glucksmann": 9.7,
+     "Gabriel Attal": 4.1,
+     "Teddy Riner": 3.5,
+     "Édouard Philippe": 8.7,
+     "David Lisnard": 9.6,
+     "Bruno Retailleau": 4.4,
+     "Nicolas Dupont-Aignan": 1.7,
+     "Marine Le Pen": 31.8,
+     "Éric Zemmour": 3.2,
+     "Dominique de Villepin": 1.6
     }
    }
   ],
@@ -301,16 +328,18 @@
   "candidates": {
    "Marine Le Pen": "rn",
    "Jean-Luc Mélenchon": "lfi",
-   "Raphaël Glucksmann": "pp",
+   "Raphaël Glucksmann": "dvg",
+   "David Lisnard": "unknown:New Energy (France)",
    "Édouard Philippe": "hor",
-   "David Lisnard": "unknown:Union for French Democracy",
    "Bruno Retailleau": "lr",
    "Gabriel Attal": "re",
-   "Teddy Riner": "unknown:Sans étiquette",
+   "Teddy Riner": "ind",
    "Éric Zemmour": "rec",
    "Marine Tondelier": "le",
+   "Nicolas Dupont-Aignan": "dlf",
    "Fabien Roussel": "pcf",
-   "Nicolas Dupont-Aignan": "unknown:Debout la République",
+   "Dominique de Villepin": "ur",
+   "Natacha Polony": "pd",
    "Nathalie Arthaud": "lo"
   }
  },
@@ -523,9 +552,7 @@
   "secondRound": "2027-05-02"
  },
  "unknownParties": [
-  "Sans étiquette",
-  "Union for French Democracy",
-  "Debout la République",
+  "New Energy (France)",
   "The Patriots (France)",
   "Popular Republican Union (2007)"
  ],
